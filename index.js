@@ -9,5 +9,5 @@ function iterate(callback) {
   fruits.forEach(callback(element, index, array) {
     
   })
-  // return fruits
+  return fruits
 }
