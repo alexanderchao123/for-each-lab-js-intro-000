@@ -9,3 +9,5 @@ function iterate(callback) {
   fruits.forEach(callback)
   return fruits
 }
+
+function doToArray(array, callback) {}
